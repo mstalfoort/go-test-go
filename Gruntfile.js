@@ -64,14 +64,6 @@ module.exports = function(grunt) {
     //     "lesslint": {
     //         "ziggo": ['../application/less/**/*.less']
     //     },
-    //     "bless": { /*Bless css for IE9- compatibility: http://blesscss.com/*/
-    //       "css": {
-    //         "options": {},
-    //         "files": {
-    //             '../application/public/css/style-bless.css': '../application/public/css/style.css'
-    //         }
-    //       }
-    //     },
     //     "concat": {
     //         "js": {
     //             files :[{
