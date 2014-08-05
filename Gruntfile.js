@@ -173,32 +173,6 @@ module.exports = function(grunt) {
     //                     "../application/js/ziggo/component/ziggo.component.search.js"
     //                 ],
     //                 dest: "../application/public/js/source-ssi.js"
-    //             }, {
-    //                 src: [
-    //                     "../application/js/jquery/jquery.cookie.js",
-    //                     "../application/js/jquery/jquery.easing.js",
-    //                     "../application/js/jquery/jquery.dotimeout.js",
-    //                     "../application/js/jquery/jquery.placeholder.js",
-    //                     "../application/js/jquery/jquery.touchSwipe.min.js",
-    //                     "../application/js/bootstrap.min.js",
-    //                     "../application/js/enrise.js",
-    //                     "../application/js/modernizr.js",
-    //                     "../application/js/responsive-img.min.js",
-    //                     "../application/js/ziggo.js",
-    //                     "../application/js/ziggo/ziggo.component.js",
-    //                     "../application/js/ziggo/component/ziggo.component.cookie.bar.js",
-    //                     "../application/js/ziggo/component/ziggo.component.cookie.settings.js",
-    //                     "../application/js/ziggo/ziggo.plugin.js",
-    //                     "../application/js/ziggo/plugin/ziggo.plugin.mobilemenu.js",
-    //                     "../application/js/ziggo/plugin/ziggo.plugin.responsivefonts.js",
-    //                     "../application/js/ziggo/plugin/ziggo.plugin.svgfallback.js",
-    //                     "../application/js/ziggo/plugin/ziggo.plugin.analytics.js",
-    //                     "../application/js/ziggo/component/ziggo.component.socialshare.js",
-    //                     "../application/js/ziggo/component/ziggo.component.obsoletebrowser.js",
-    //                     "../application/js/ziggo/component/ziggo.component.newsletter.js",
-    //                     "../application/js/ziggo/component/ziggo.component.search.js"
-    //                 ],
-    //                 dest: "../application/public/js/source-no-lib-ssi.js"
     //             }]
     //         }
     //     }
@@ -219,4 +193,3 @@ module.exports = function(grunt) {
     // grunt.registerTask('build', ['jshint', 'concat', 'less', 'bless']);
     // grunt.registerTask('js', ['jshint', 'concat']);
 };
-
